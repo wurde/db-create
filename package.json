@@ -1,0 +1,23 @@
+{
+  "name": "db-create",
+  "version": "0.1.0",
+  "description": "Creates the database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurde/db-create.git"
+  },
+  "keywords": [
+    "db",
+    "task"
+  ],
+  "author": "Andy Bettisworth <andy@accreu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurde/db-create/issues"
+  },
+  "homepage": "https://github.com/wurde/db-create#readme"
+}
