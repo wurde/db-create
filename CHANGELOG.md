@@ -12,7 +12,7 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
-## YYYY-MM-DD, Version 0.1.0
+## 2017-12-01, Version 0.1.0
 
 * 1 minor enhancement:
 
