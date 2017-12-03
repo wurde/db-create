@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/wurde/db-create.git"
   },
+  "bin": {
+    "db_create": "./index.js"
+  },
   "keywords": [
     "db",
     "task"
