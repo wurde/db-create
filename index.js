@@ -44,9 +44,7 @@ if (has_config == false) {
  * Load the main script
  */
 
-let has_main_script = fs.existsSync(main_script)
-
-if (has_main_script) {
+if (fs.existsSync(main_script)) {
   const app = require(main_script)
 
   /**
